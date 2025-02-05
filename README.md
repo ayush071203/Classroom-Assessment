@@ -329,6 +329,7 @@ Vehicle.java
     - instanceof operator
 
 <summary> File this, static, final key words and instanceof operator </summary>
+<details>
 BankAccount.java
 Book.java
 Employee.java
