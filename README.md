@@ -320,3 +320,20 @@ Product.java
 Students.java
 Vehicle.java
 </details>
+
+## Task 12: DATE: 04-02-2025
+1. *this, static, final key words and instanceof operator Level 1 Lab Practice
+    - this
+    - static
+    - final
+    - instanceof operator
+
+<summary> File this, static, final key words and instanceof operator </summary>
+BankAccount.java
+Book.java
+Employee.java
+Patient.java
+Product.java
+Student.java
+Vehicle.java
+</details>
