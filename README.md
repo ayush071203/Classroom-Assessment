@@ -328,8 +328,8 @@ Vehicle.java
     - final
     - instanceof operator
 
-<summary> File this, static, final key words and instanceof operator </summary>
 <details>
+<summary> File this, static, final key words and instanceof operator </summary>
 BankAccount.java
 Book.java
 Employee.java
