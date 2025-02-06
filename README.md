@@ -338,3 +338,21 @@ Product.java
 Student.java
 Vehicle.java
 </details>
+
+## Task 13: DATE: 06-02-2025
+1. *Submission of Object Oriented Design Principles
+   Object Oriented Design Principles
+   - Class Diagram
+   - Object Diagrams
+   - Sequence Diagrams
+
+<details>
+<summary> File this, static, final key words and instanceof operator </summary>
+BankAccount.java
+Book.java
+Employee.java
+Patient.java
+Product.java
+Student.java
+Vehicle.java
+</details>
