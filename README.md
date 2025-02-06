@@ -347,12 +347,8 @@ Vehicle.java
    - Sequence Diagrams
 
 <details>
-<summary> File this, static, final key words and instanceof operator </summary>
-BankAccount.java
-Book.java
-Employee.java
-Patient.java
-Product.java
-Student.java
-Vehicle.java
+<summary> File Object Diagram, Sequence Diagram and Class Diagram  </summary>
+ClassDiagram.jpg
+SequenceDiagram.jpg
+ObjectDiagram.jpg
 </details>
