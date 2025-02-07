@@ -352,3 +352,32 @@ ClassDiagram.jpg
 SequenceDiagram.jpg
 ObjectDiagram.jpg
 </details>
+
+
+## Task 14: DATE: 07-02-2025
+
+
+- **Inheritance**: A subclass inherits the attributes and methods of a parent class.
+- **Single Level Inheritance**: A subclass inherits from one parent class.
+- **Multilevel Inheritance**: A chain of inheritance where a class inherits from another subclass.
+- **Hierarchical Inheritance**: Multiple subclasses inherit from a single parent class.
+- **Key Features**: Code reuse, method overriding, extensibility, and maintainability.
+- **Method Overriding**: A subclass defines a method that overrides a method in the parent class.
+- **Constructor Inheritance**: Subclasses can call the constructor of the parent class using `super()`.
+- **Polymorphism**: A subclass object can be treated as an instance of its parent class, with the correct method being called based on the actual object type.
+- **Access Modifiers**: Control the visibility of class members in inheritance (`public`, `private`, `protected`, and default).
+
+<details>
+<summary> Files </summary>
+Animal.java
+Employee.java
+Vehicle.java
+BankAccount.java
+Person.java
+Person.java
+Vehicle.java
+Course.java
+Order.java
+Book.java
+Device.java
+</details>
