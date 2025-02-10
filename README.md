@@ -385,10 +385,10 @@ Device.java
 ## Task 15: DATE: 10-02-2025
 
 
-**Encapsulation**: Ensure all sensitive fields are private and accessed through well-defined getter and setter methods. Include validation logic where applicable.
-**Polymorphism**: Use abstract class references or interface references to handle objects of multiple types dynamically.
-**Abstract Classes**: Use them to define a common structure and behavior while deferring specific details to subclasses.
-**Interfaces**: Use them to define additional capabilities or contracts that are not tied to the class hierarchy.
+-**Encapsulation**: Ensure all sensitive fields are private and accessed through well-defined getter and setter methods. Include validation logic where applicable.
+-**Polymorphism**: Use abstract class references or interface references to handle objects of multiple types dynamically.
+-**Abstract Classes**: Use them to define a common structure and behavior while deferring specific details to subclasses.
+-**Interfaces**: Use them to define additional capabilities or contracts that are not tied to the class hierarchy.
 
 <details>
 <summary> Files </summary>
