@@ -426,5 +426,50 @@ TextEditorApp.java
 TicketReservationApp.java
 </details>
 
+## Task 17: DATE: 13-02-2025
+**Stack**
+
+A Stack is a linear data structure that follows the Last In, First Out (LIFO) principle. The element inserted last is the first to be removed. It is commonly used for scenarios where elements need to be processed in reverse order of their insertion.<br>
+Key Operations<br>
+push(E e): Adds an element to the top of the stack.<br>
+pop(): Removes and returns the top element of the stack.<br>
+peek(): Retrieves the top element without removing it.<br>
+isEmpty(): Checks if the stack is empty.<br>
+
+**Queues**
+
+A Queue is a linear data structure that follows the First In, First Out (FIFO) principle, where the element added first is the first one to be removed. It is widely used in scenarios like scheduling, buffering, and resource management.<br>
+Types of Queues<br>
+Simple Queue: FIFO behavior.<br>
+PriorityQueue: Elements are ordered based on priority.<br>
+Deque (Double-Ended Queue): Allows insertion and deletion from both ends.<br><br>
+Key Operations<br>
+offer(E e): Adds an element to the queue.<br>
+poll(): Retrieves and removes the head of the queue.<br>
+peek(): Retrieves the head without removing it.<br>
+isEmpty(): Checks if the queue is empty.<br>
+
+**HashMap**
+
+A HashMap in Java is a part of the java.util package and is used to store key-value pairs. It provides constant-time performance for most operations like insertion, deletion, and retrieval (in the average case).<br>
+Key Operations<br>
+put(K key, V value): Inserts or updates a key-value pair.<br>
+get(Object key): Retrieves the value for a given key.<br>
+containsKey(Object key): Checks if a key exists.<br>
+remove(Object key): Removes a key-value pair.<br>
+
+<details>
+<summary> Files </summary>
+  CircularTour.java
+  QueueusingStack.java
+  SlidingWindowMaximum.java
+  SortStackRecursively.java
+  StockSpan.java
+  CustomHashMap.java
+  LongestConsecutiveSequence.java
+  PairWithTargetSum.java
+  TwoSum.java
+  ZeroSumSubarrays.java
+</details>
 
 
