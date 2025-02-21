@@ -676,7 +676,7 @@ Types of Streams
 <h1>Exception Handling in Java</h1>
   Exception handling in Java is a powerful mechanism to handle runtime errors, ensuring the smooth execution of the program. It is managed via five keywords: try, catch, finally, throw, and throws.
 
-<h1>1. Try and Catch Block</h1>
+<h1>Try and Catch Block</h1>
   Try Block: The code that might throw an exception is placed inside the try block. If an exception occurs, it is handled by the catch block.
   Catch Block: The catch block follows the try block and catches exceptions thrown by the try block. You can have multiple catch blocks to handle different types of exceptions
 
