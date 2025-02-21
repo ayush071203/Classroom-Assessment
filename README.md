@@ -685,14 +685,14 @@ Types of Streams
 
 <h1>Unchecked Exceptions in Java</h1>
   Unchecked exceptions are exceptions that are not checked at compile-time but occur at runtime. These exceptions are subclasses of RuntimeException and represent programming errors that are often avoidable,       such as logic errors or improper use of an API.
-
-<strong>Finally Block</strong>
+<br><br>
+<strong>Finally Block</strong><br>
 <i>The finally block is used to execute important code such as closing resources. It is executed whether an exception is handled or not.</i>
 
 <h1>Java Nested Try</h1>
 In Java, you can use nested try blocks to handle exceptions more granularly. This means placing one try block inside another try block, allowing you to catch and handle exceptions separately for different parts of your code. This can be useful when you have multiple operations that might throw exceptions, and you want to handle each operation's exceptions individually.
-
-<strong>Throw Keyword:</strong> The throw keyword is used to explicitly throw an exception.
+<br><br>
+<strong>Throw Keyword:</strong> The throw keyword is used to explicitly throw an exception.<br>
 <strong>Throws Keyword:</strong> The throws keyword is used in a method signature to declare that a method can throw one or more exceptions.
 
 <details>
