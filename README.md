@@ -670,3 +670,8 @@ Types of Streams
     students.dat
     user_data.txt
 </details>
+
+## Task 24: DATE: 21-02-2025
+
+<li><h1>Exception Handling in Java</h1></li>
+  Exception handling in Java is a powerful mechanism to handle runtime errors, ensuring the smooth execution of the program. It is managed via five keywords: try, catch, finally, throw, and throws.
