@@ -636,3 +636,37 @@ java.util →Package contains the collection classes let us to group elements in
   SetToSortedList.java
   SymmetricDifference.java
 </details>
+
+
+## Task 23: DATE: 21-02-2025
+
+Java provides a rich set of I/O (Input/Output) classes to read and write data. These classes are part of the java.io package and are based on the concept of streams. A stream represents a sequence of data and can be used for reading from or writing to a data source or destination.
+
+Types of Streams
+  1. File Streams
+  2. Object Streams
+  3. ByteArray Streams
+  4. Buffered Streams
+  5. Reader and Writer
+
+<details>
+  <summary>Files</summary>
+    BufferedFileCopy.java
+    EmployeeSerialization.java
+    FileCopy.java
+    FilterStreamsLowercase.java
+    ImageByteArrayStream.java
+    PipeStreamExample.java
+    ReadLargeFile.java
+    StudentDataStream.java
+    UserInputToFile.java
+    WordCount.java
+    copy_buffered.dat
+    copy_unbuffered.dat
+    destination.txt
+    employee.ser
+    largefile.dat
+    source.txt
+    students.dat
+    user_data.txt
+</details>
