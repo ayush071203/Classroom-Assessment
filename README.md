@@ -694,7 +694,7 @@ In Java, you can use nested try blocks to handle exceptions more granularly. Thi
 <br><br>
 <strong>Throw Keyword:</strong> The throw keyword is used to explicitly throw an exception.<br>
 <strong>Throws Keyword:</strong> The throws keyword is used in a method signature to declare that a method can throw one or more exceptions.
-
+<br>
 <details>
   <summary>Files</summary>
     AgeValidationExample.java
