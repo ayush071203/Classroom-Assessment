@@ -673,5 +673,39 @@ Types of Streams
 
 ## Task 24: DATE: 21-02-2025
 
-<li><h1>Exception Handling in Java</h1></li>
+<h1>Exception Handling in Java</h1>
   Exception handling in Java is a powerful mechanism to handle runtime errors, ensuring the smooth execution of the program. It is managed via five keywords: try, catch, finally, throw, and throws.
+
+<h1>1. Try and Catch Block</h1>
+  Try Block: The code that might throw an exception is placed inside the try block. If an exception occurs, it is handled by the catch block.
+  Catch Block: The catch block follows the try block and catches exceptions thrown by the try block. You can have multiple catch blocks to handle different types of exceptions
+
+<h1>Checked Exceptions in Java</h1>
+  Checked exceptions are exceptions that are checked at compile-time by the Java compiler. If a method is capable of throwing a checked exception, it must either handle the exception using a try-catch block or     declare it in its method signature using the throws keyword. Failure to do so results in a compilation error.
+
+<h1>Unchecked Exceptions in Java</h1>
+  Unchecked exceptions are exceptions that are not checked at compile-time but occur at runtime. These exceptions are subclasses of RuntimeException and represent programming errors that are often avoidable,       such as logic errors or improper use of an API.
+
+<strong>Finally Block</strong>
+<i>The finally block is used to execute important code such as closing resources. It is executed whether an exception is handled or not.</i>
+
+<h1>Java Nested Try</h1>
+In Java, you can use nested try blocks to handle exceptions more granularly. This means placing one try block inside another try block, allowing you to catch and handle exceptions separately for different parts of your code. This can be useful when you have multiple operations that might throw exceptions, and you want to handle each operation's exceptions individually.
+
+<strong>Throw Keyword:</strong> The throw keyword is used to explicitly throw an exception.
+<strong>Throws Keyword:</strong> The throws keyword is used in a method signature to declare that a method can throw one or more exceptions.
+
+<details>
+  <summary>Files</summary>
+    AgeValidationExample.java
+    ArrayOperationExample.java
+    BankAccount.java
+    DivisionExample.java
+    DivisionWithFinally.java
+    ExceptionPropogationProblem.java
+    FileReader.java
+    FileReaderExample.java
+    InterestCalculator.java
+    NestedTryCatchExample.java
+    data.txt
+</details>
