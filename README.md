@@ -709,3 +709,38 @@ In Java, you can use nested try blocks to handle exceptions more granularly. Thi
     NestedTryCatchExample.java
     data.txt
 </details>
+
+## Task 25: DATE: 22-02-2025
+
+<h1>Regex</h1><br>
+Regular Expressions (Regex) are a sequence of characters defining a search pattern. They are commonly used for validations, searching, text manipulation, and data extraction.
+Java provides the java.util.regex package to handle regular expressions.
+<br>
+Java provides two main classes to work with regex:<br>
+**Pattern** → Represents a compiled regex pattern.<br>
+**Matcher** → Performs operations like searching, matching, and replacing.<br>
+<h1>3. Regex Metacharacters :</h1>
+
+<i>Metacharacters are special characters with a specific meaning in regex.</i>
+<br>
+<h1>Regex Quantifiers :</h1>
+<i>Quantifiers define how many times a character or group appears in the text.</i>
+<br>
+
+<h1>JUnit</h1><br>
+JUnit is a Java unit testing framework used to write and execute automated tests. It helps developers ensure that their code functions correctly by verifying individual units (methods or classes) in an application.
+
+<br>
+<h1>JUnit Annotations</h1>
+<br>
+@Test - Marks a method as a test case<br>
+@BeforeEach - Runs before each test method<br>
+@AfterEach - Runs after each test method<br>
+@BeforeAll - Runs once before all test methods (Static)<br>
+@AfterAll - Runs once after all test methods (Static)<br>
+@DisplayName - Sets a custom test name<br>
+@Disabled - Skips a test method<br>
+@RepeatedTest(n) - Runs a test multiple times<br>
+@ParameterizedTest - Runs a test with different parameters<br>
+@Tag - Categorizes tests for filtering<br>
+
