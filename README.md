@@ -767,9 +767,9 @@ Annotations are metadata added to Java code (classes, methods, fields, etc.) to 
 <br>
 <h2>Meta-Annotations (Annotations for Annotations)</h2><br>
 <li>@Retention - Specifies how long the annotation is retained:
-                <li>RetentionPolicy.SOURCE (discarded by the compiler).</li>
-                <li>RetentionPolicy.CLASS (retained in class files, not runtime).</li>
-                <li>RetentionPolicy.RUNTIME (accessible via reflection).</li>
+                RetentionPolicy.SOURCE (discarded by the compiler).
+                RetentionPolicy.CLASS (retained in class files, not runtime).
+                RetentionPolicy.RUNTIME (accessible via reflection).
 </li>
 <br>
 <li>@Target - Defines where the annotation can be applied: ElementType.METHOD, ElementType.TYPE, ElementType.FIELD, etc.</li><br>
