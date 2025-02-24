@@ -744,3 +744,34 @@ JUnit is a Java unit testing framework used to write and execute automated tests
 @ParameterizedTest - Runs a test with different parameters<br>
 @Tag - Categorizes tests for filtering<br>
 
+## Task 26: DATE: 24-02-2025
+
+<h1>Reflection</h1>
+Reflection is a powerful feature in Java that allows us to inspect and manipulate classes, methods, fields, and constructors at runtime, even if their names are unknown at compile time.
+
+<li> Reflection allows runtime access to classes, methods, fields, and annotations.</li>
+<li> We can modify private fields, call private methods, and create objects dynamically.</li>
+<li> Reflection is useful but should be used cautiously due to performance overhead.</li>
+
+<h1>Annotations</h1><br>
+Annotations are metadata added to Java code (classes, methods, fields, etc.) to provide additional information. They do not directly affect program execution but can be processed by:<br>
+<li>Compilers (e.g., @Override for compile-time checks).</li><br>
+<li>Runtime environments (e.g., JUnit’s @Test for test execution).</li><br>
+<li>Frameworks (e.g., Spring’s @Autowired for dependency injection).</li><br>
+<br>
+<h2>Core Java Annotations</h2>
+<li>@Override - Indicates a method is overriding a superclass method.</li><br>
+<li>@Deprecated - Marks a method/class as obsolete and Triggers a compiler warning if used.</li><br>
+<li>@SuppressWarnings - Suppresses compiler warnings for specific code blocks.</li><br>
+<li>@FunctionalInterface - Ensures an interface has exactly one abstract method (for lambda compatibility).</li><br>
+<br>
+<h2>Meta-Annotations (Annotations for Annotations)</h2><br>
+<li>@Retention - Specifies how long the annotation is retained:
+                <li>RetentionPolicy.SOURCE (discarded by the compiler).</li>
+                <li>RetentionPolicy.CLASS (retained in class files, not runtime).</li>
+                <li>RetentionPolicy.RUNTIME (accessible via reflection).</li>
+</li>
+<br>
+<li>@Target - Defines where the annotation can be applied: ElementType.METHOD, ElementType.TYPE, ElementType.FIELD, etc.</li><br>
+<li>@Inherited - Allows subclasses to inherit the annotation from a superclass.</li><br>
+<li>@Documented - Includes the annotation in generated Javadoc.</li><br>
