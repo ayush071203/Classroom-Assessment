@@ -775,3 +775,26 @@ Annotations are metadata added to Java code (classes, methods, fields, etc.) to 
 <li>@Target - Defines where the annotation can be applied: ElementType.METHOD, ElementType.TYPE, ElementType.FIELD, etc.</li><br>
 <li>@Inherited - Allows subclasses to inherit the annotation from a superclass.</li><br>
 <li>@Documented - Includes the annotation in generated Javadoc.</li><br>
+
+
+## Task 27: DATE: 25-02-2025
+
+CSV (Comma-Separated Values) is a simple file format used to store tabular data in plain text. Each line represents a row, and columns are separated by commas.<br>
+
+** Reading CSV Files in Java**<br>
+Java provides multiple ways to read CSV files, including:<br>
+<li>Using BufferedReader (Manual Parsing)</li>
+<li>Using OpenCSV Library</li>
+<li>Using Apache Commons CSV</li>
+
+** Writing CSV Files in Java**<br>
+Java provides multiple ways to read CSV files, including:<br>
+<li> Using FileWriter & BufferedWriter</li>
+<li>Using OpenCSV </li>
+
+**Data Validation in CSV**
+<li>Ensure numeric fields contain valid numbers.</li>
+<li>Check for missing or empty fields.</li>
+<li>Validate email formats using regex.</li>
+
+
