@@ -797,4 +797,23 @@ Java provides multiple ways to read CSV files, including:<br>
 <li>Check for missing or empty fields.</li>
 <li>Validate email formats using regex.</li>
 
+<details>
+  <summary>Files</summary>
+  CSV_Files
+  CSVToObjects.java
+  ConvertJSONCSV.java
+  CountCSVRows.java
+  DetectCSVDuplicates.java
+  EncryptDecryptCSV.java
+  FilterCSVRecords.java
+  GenerateCSVReport.java
+  MergeCSVFiles.java
+  ReadCSV.java
+  ReadLargeCSV.java
+  SearchCSVRecords.java
+  SortCSVRecords.java
+  UpdateCSV.java
+  ValidateCSV.java
+  WriteCSV.java
+</details>
 
