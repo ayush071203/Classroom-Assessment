@@ -817,3 +817,36 @@ Java provides multiple ways to read CSV files, including:<br>
   WriteCSV.java
 </details>
 
+## Task 28: DATE: 26-02-2025
+
+JSON (JavaScript Object Notation) is a lightweight data format used for data exchange between servers and web applications. It is human-readable and easy to parse.
+<br>
+<h1>Syntax of JSON</h1><br>
+A JSON object is enclosed within curly braces {} and contains key-value pairs separated by a colon :. Multiple key-value pairs are separated by a comma ,.<br>
+Basic JSON Object Example :<br>
+{<br>
+  "name": "Example",<br>
+  "age": 25,<br>
+  "email": "example@example.com"<br>
+}
+
+<details>
+  <summary>Files</summary>
+    CarObjectToJson.java
+    ConvertCSVToJSON.java
+    ConvertJSONToXML.java
+    ConvertListToJSONArray.java
+    ConvertListToJSONArray2.java
+    FilterJSON.java
+    FilterJSONByAge.java
+    FilterJSONExample.java
+    GenerateJSONFromDB.java
+    IPLCensorAnalyzer.java
+    JSONCreate.java
+    JsonReadFile.java
+    MergeJSONObjects.java
+    MergeJSONObjects2.java
+    ReadJSONAndPrint.java
+    ValidateEmail.java
+    ValidateJSON.java
+</details>
