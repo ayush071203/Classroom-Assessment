@@ -850,3 +850,11 @@ Basic JSON Object Example :<br>
     ValidateEmail.java
     ValidateJSON.java
 </details>
+
+## Task 29: DATE: 28-02-2025
+
+The Apache Tomcat® software is an open source implementation of the Jakarta Servlet, Jakarta Pages, Jakarta Expression Language and Jakarta WebSocket technologies. The Jakarta Servlet, Jakarta Pages, Jakarta Expression Language and Jakarta WebSocket specifications are developed as part of the Jakarta EE Platform.
+
+The Apache Tomcat software is developed in an open and participatory environment and released under the Apache License version 2. The Apache Tomcat project is intended to be a collaboration of the best-of-breed developers from around the world. We invite you to participate in this open development project. To learn more about getting involved, click here or keep reading.
+
+Apache Tomcat, Tomcat, Apache, the Apache feather, and the Apache Tomcat project logo are trademarks of the Apache Software Foundation.
